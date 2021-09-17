@@ -14,15 +14,29 @@
 
 ## Git与代码版本管理
 
-|                      | 书名                     | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                              | todo                                          | 下载地址                                                     |
-| ------------------------ | ---- | ------ | ------ | --------------- | ------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1       | 《Pro Git》中文版        | pdf  | 223    | 中文   | 有              | 电子版        | 5.11MB   | [帅地玩编程][sd-github]                                      |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn67MGW0mGRIDJN0NocaNqFf) |
-| 2          | git_cheatsheet           | pdf  | 2      | 英文   | 无              | 电子版        | 332KB    | GitHub Social Coding / heroku                                |                                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn2OMjug7MLQzRCgfyj7SQmb) |
-| 3          | Git参考手册-新           | chm  |        | 中文   | 有              |               | 239KB    | [手册网](http://www.shouce.ren)  打开会产生chw文件，看完后删除即可 |  | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnr8qKeEwYqGoXMjcUtc4KDc) |
-| 4           | Git的奇技淫巧            | pdf  | 16     | 中文   | 有微信二维码    | 电子版        | 1.78MB   |                                                              |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1VuH4loJk500sK0LIFYSsc) |
-| 5 | Pro Git 第二版（中文版） | pdf  | 535    | 中文   | 无              | 电子版        | 18.9MB   | 看云文档小组                                                 | 分享链接                                             | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuu21ASXiblf45CaKkPUfgg)                                                     |
-| 6   | 从0开始学习GitHub系列    | pdf  | 61     | 中文   | 有二维码        | 电子版        | 11.1MB   | stormzhang                                                   | 分享链接                                               | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn25I0PQEJiqOilCMpJAQlhd)                                                     |
-| 7 | 专业git中文 | pdf  |        | 中文 | 无            | 大字版  | 5.53MB   | [GitHub repo](https://github.com/fqbqrr/zjh/blob/gh-pages/_posts/%E6%B1%87%E7%BC%960.md) | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnL63HQJEdf3qhekgolCMENc)                                                     |
+|                      | 书名                     | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                              | 下载地址                                                     |
+| ------------------------ | ---- | ------ | ------ | --------------- | ------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1       | 《Pro Git》中文版        | pdf  | 223    | 中文   | 有              | 电子版        | 5.11MB   | [帅地玩编程][sd-github]                                      | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn67MGW0mGRIDJN0NocaNqFf) |
+| 2          | git_cheatsheet           | pdf  | 2      | 英文   | 无              | 电子版        | 332KB    | GitHub Social Coding / heroku                                | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn2OMjug7MLQzRCgfyj7SQmb) |
+| 3          | Git参考手册-新           | chm  |        | 中文   | 有              |               | 239KB    | [手册网](http://www.shouce.ren)  打开会产生chw文件，看完后删除即可 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnr8qKeEwYqGoXMjcUtc4KDc) |
+| 4           | Git的奇技淫巧            | pdf  | 16     | 中文   | 有微信二维码    | 电子版        | 1.78MB   |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1VuH4loJk500sK0LIFYSsc) |
+| 5 | Pro Git 第二版（中文版） | pdf  | 535    | 中文   | 无              | 电子版        | 18.9MB   | 看云文档小组                                                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuu21ASXiblf45CaKkPUfgg)                                                     |
+| 6   | 从0开始学习GitHub系列    | pdf  | 61     | 中文   | 有二维码        | 电子版        | 11.1MB   | stormzhang                                                   | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn25I0PQEJiqOilCMpJAQlhd)                                                     |
+| 7 | 专业git中文 | pdf  |        | 中文 | 无            | 大字版  | 5.53MB   | [GitHub repo](https://github.com/fqbqrr/zjh/blob/gh-pages/_posts/%E6%B1%87%E7%BC%960.md) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnL63HQJEdf3qhekgolCMENc)                                                     |
+
+
+
+## LeetCode与面试
+
+|                      | 书名                     | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                              | 下载地址                                                     |
+| ------------------------ | ---- | ------ | ------ | --------------- | ------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1 | 程序员面试金典 | pdf  | 539 | 中文 | 无            | 文字版 | 3.08MB   | ePUBw.COM | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnUBSEdr1mKuZP3iUlDDAFre)                                                     |
+| 2 | 和小浩学算法 | pdf  | 241 | 中文 | 有二维码         | 电子版  | 13.3MB   | 小浩算法 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnZHvUADTRGHBnE3qNSgrJ4c)                                                     |
+| 3 | LeetCode题解答案(Java版) | pdf  | 181 | 英文 | 无            | 电子版            | 2.16MB   | Program Creek | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnlTrWNJMW7PzvSwgWQYceec)                                                     |
+| 4 | LeetCode Cookbook | pdf  | 1121 | 中文 | 无            | 文字版  | 16.4MB   | [LeetCode Cookbook](https://books.halfrost.com/leetcode) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnatmFpQNrMeHIKQNYizD13c)                                                     |
+| 5 | 算法小队（第一周总结） | pdf  | 19 | 中文 | 无            | 文字版 | 657KB   | 帅地玩编程 知识星球 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuzsAVnzeMvGL7VbwWcUuDd)                                                     |
+| 6 | 程序员内功修炼-V2.0 | pdf  | 1053 | 中文 | 有二维码         | 文字版 | 159MB    | 我是帅地 公众号 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnMrYPdJ37nExpJgHbO2WVrq)                                                     |
+| 7 | 500道Java后端面试必知必会-V1版 | pdf  | 145 | 中文 | 有二维码        | 文字版  | 9.04MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnN3Xaii3G7IHUkFK0GEV2Qf)                                                     |
 
 
 
