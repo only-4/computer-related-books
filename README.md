@@ -85,6 +85,16 @@
 
 ## 分布式与高并发（Hadoop、ElasticSearch、区块链、架构）
 
+### ElasticSearch 分布式搜索引擎
+|                      | 书名                     | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                              | 下载地址                                                     |
+| ------------------------ | ---- | ------ | ------ | --------------- | ------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1 | apache-solr-ref-guide-7.1 | pdf  | 1077 | 英文 | 页脚有License  | 电子版  | 11.6MB  | apache | [飞书](https://x7xrycxzti.feishu.cn/file/boxcndkreT2nU6Sfxk4tYtyvgRg) |
+| 2 | Elasticsearch in Action 全文检索 | pdf  | 286 | 英文 | 页脚有License  | 电子版  | 7.24MB   |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFYte5uWefe6GeAUQjz1Tcc) |
+| 3 | Elasticsearch 权威指南（中文版） | pdf  | 195 | 中文 | 有         | 电子版（重制） | 3.10MB   | Linux公社 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnGExP1Oe8mAzUJimgbAqDfJ) |
+| 4 | Elasticsearch服务器开发（第2版） | pdf  | 297 | 中文 | 页脚有License   | 电子版  | 16.5MB   | 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnPUfPc6cDYe3uCjRXebEzqb) |
+| 5 | Learning ELK Stack 中文版 | pdf  | 190 | 中文 | 无            | 纸质扫描版  | 44.0MB   |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcneTIg7fIYXDUhBurENCaEIg) |
+| 6 | 搜索引擎核心技术与实现(基于Lucene和Solr) | pdf  | 351 | 中文 | 无            | 电子版  | 1.72MB   | 罗刚 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnlOy3AFswxJZrZY0SHFyb7c) |
+
 ### Hadoop
 |                      | 书名                     | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                              | 下载地址                                                     |
 | ------------------------ | ---- | ------ | ------ | --------------- | ------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
