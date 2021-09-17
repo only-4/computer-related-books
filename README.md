@@ -12,6 +12,20 @@
 
 
 
+## Git与代码版本管理
+
+|                      | 书名                     | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                              | todo                                          | 下载地址                                                     |
+| ------------------------ | ---- | ------ | ------ | --------------- | ------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1       | 《Pro Git》中文版        | pdf  | 223    | 中文   | 有              | 电子版        | 5.11MB   | [帅地玩编程][sd-github]                                      |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn67MGW0mGRIDJN0NocaNqFf) |
+| 2          | git_cheatsheet           | pdf  | 2      | 英文   | 无              | 电子版        | 332KB    | GitHub Social Coding / heroku                                |                                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn2OMjug7MLQzRCgfyj7SQmb) |
+| 3          | Git参考手册-新           | chm  |        | 中文   | 有              |               | 239KB    | [手册网](http://www.shouce.ren)  打开会产生chw文件，看完后删除即可 |  | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnr8qKeEwYqGoXMjcUtc4KDc) |
+| 4           | Git的奇技淫巧            | pdf  | 16     | 中文   | 有微信二维码    | 电子版        | 1.78MB   |                                                              |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1VuH4loJk500sK0LIFYSsc) |
+| 5 | Pro Git 第二版（中文版） | pdf  | 535    | 中文   | 无              | 电子版        | 18.9MB   | 看云文档小组                                                 | 分享链接                                             | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuu21ASXiblf45CaKkPUfgg)                                                     |
+| 6   | 从0开始学习GitHub系列    | pdf  | 61     | 中文   | 有二维码        | 电子版        | 11.1MB   | stormzhang                                                   | 分享链接                                               | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn25I0PQEJiqOilCMpJAQlhd)                                                     |
+| 7 | 专业git中文 | pdf  |        | 中文 | 无            | 大字版  | 5.53MB   | [GitHub repo](https://github.com/fqbqrr/zjh/blob/gh-pages/_posts/%E6%B1%87%E7%BC%960.md) | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnL63HQJEdf3qhekgolCMENc)                                                     |
+
+
+
 ## 写在最后
 
 ### 【说明】
@@ -43,3 +57,10 @@
 帅地玩编程：https://github.com/iamshuaidi/CS-Book
 程序员飞哥：https://github.com/itbooks1024/books-pdf
 如果大家觉得他们的分享对你有所帮助，也欢迎为他们点一个Star哦
+
+
+
+
+
+[sd-github]: https://github.com/iamshuaidi/CS-Book	"帅地玩编程 GitHub仓库"
+
