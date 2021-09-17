@@ -34,7 +34,7 @@
 | 2    | 和小浩学算法                   | pdf  | 241    | 中文 | 有二维码        | 电子版        | 13.3MB   | 小浩算法                                                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnZHvUADTRGHBnE3qNSgrJ4c) |
 | 3    | LeetCode题解答案(Java版)       | pdf  | 181    | 英文 | 无              | 电子版        | 2.16MB   | Program Creek                                            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnlTrWNJMW7PzvSwgWQYceec) |
 | 4    | LeetCode Cookbook              | pdf  | 1121   | 中文 | 无              | 文字版        | 16.4MB   | [LeetCode Cookbook](https://books.halfrost.com/leetcode) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnatmFpQNrMeHIKQNYizD13c) |
-| 5    | 算法小队（第一周总结）         | pdf  | 19     | 中文 | 无              | 文字版        | 657KB    | 帅地玩编程 知识星球                                      | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuzsAVnzeMvGL7VbwWcUuDd) |
+| 5    | 算法小队（第一周总结）         | pdf  | 19     | 中文 | 无              | 文字版        | 657KB    | 帅地玩编程                                               | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuzsAVnzeMvGL7VbwWcUuDd) |
 | 6    | 程序员内功修炼-V2.0            | pdf  | 1053   | 中文 | 有二维码        | 文字版        | 159MB    | 我是帅地 公众号                                          | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnMrYPdJ37nExpJgHbO2WVrq) |
 | 7    | 500道Java后端面试必知必会-V1版 | pdf  | 145    | 中文 | 有二维码        | 文字版        | 9.04MB   | [帅地玩编程][sd-github]                                  | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnN3Xaii3G7IHUkFK0GEV2Qf) |
 
@@ -74,7 +74,7 @@
 | 8    | 精通正则表达式                                     | pdf  | 544    | 中文 | 无              | 纸质扫描版    | 45.2MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnigJWBdMcszOSoEJVRX8i8d) |
 | 9    | 鸟哥的Linux私房菜_基础学习篇(第三版)               | pdf  | 792    | 中文 | 有免责声明      | 纸质扫描版    | 151MB    | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnsmbRqV29JABO17iqlJuwth) |
 | 10   | 鸟哥的Linux私房菜服务器架设篇 第三版               | pdf  | 945    | 中文 | 有邮箱          | 电子版        | 17.1MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnp1BxtTsuG2frJi6jV1lNug) |
-| 11   | 深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列) | pdf  | 982    | 中文 | 无              | 文字版        | 21.2MB   | 帅地玩编程 知识星球     | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFLgmaU3xTBOCV913kXFPMh) |
+| 11   | 深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列) | pdf  | 982    | 中文 | 无              | 文字版        | 21.2MB   | 帅地玩编程              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFLgmaU3xTBOCV913kXFPMh) |
 
 
 
@@ -121,14 +121,35 @@
 
 ## 机器学习
 
-|      | 书名                                             | 格式    | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版     | 文件大小      | 来源信息 & 备注                                              | 下载地址                                                     |
-| ---- | ------------------------------------------------ | ------- | ------ | ---- | --------------- | ----------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | 机器学习实战                                     | pdf+zip | 296    | 中文 | 无              | 纸质扫描版        | 10.1MB+14.5MB |                                                              | pdf：[飞书](https://x7xrycxzti.feishu.cn/file/boxcnKnpkoej4PgvWT4mx1DYj2g)<br />zip：[飞书](https://x7xrycxzti.feishu.cn/file/boxcnYTUu55QFCupPKPRRDZN5le) |
-| 2    | PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路 | pdf     | 198    | 中文 | 无              | 纸质扫描版        | 48.3MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnyPQXAGG1kGHXXyiGxMyZuf) |
-| 3    | Tensorflow 实战Google深度学习框架                | pdf     | 297    | 中文 | 无              | 纸质扫描版        | 96.7MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnVuxsuMrRYlsGdAPUVseFkD) |
-| 4    | TensorFlow实践与智能系统                         | pdf     | 211    | 中文 | 无              | 文字版            | 24.2MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuooidk4tHW3n0BgPXDmQ1g) |
-| 5    | 贝叶斯思维统计建模的PYTHON学习法                 | pdf     | 183    | 中文 | 无              | 纸质扫描版        | 21.1MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnPEPWvOP69SYUzxbOc56Oah) |
-| 6    | 深度学习_中文版                                  | pdf     | 731    | 中文 | 无              | 电子版 纸质扫描版 | 37.4MB        | [仅供学习使用，不得用于商业目的。](https://github.com/exacity/deeplearningbook-chinese) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnxZS5GLZ1jxl9iSmiaMYB3b) |
+|      | 书名                                             | 格式    | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小      | 来源信息 & 备注                                              | 下载地址                                                     |
+| ---- | ------------------------------------------------ | ------- | ------ | ---- | --------------- | ------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | 机器学习实战                                     | pdf+zip | 296    | 中文 | 无              | 纸质扫描版    | 10.1MB+14.5MB |                                                              | pdf：[飞书](https://x7xrycxzti.feishu.cn/file/boxcnKnpkoej4PgvWT4mx1DYj2g)<br />zip：[飞书](https://x7xrycxzti.feishu.cn/file/boxcnYTUu55QFCupPKPRRDZN5le) |
+| 2    | PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路 | pdf     | 198    | 中文 | 无              | 纸质扫描版    | 48.3MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnyPQXAGG1kGHXXyiGxMyZuf) |
+| 3    | Tensorflow 实战Google深度学习框架                | pdf     | 297    | 中文 | 无              | 纸质扫描版    | 96.7MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnVuxsuMrRYlsGdAPUVseFkD) |
+| 4    | TensorFlow实践与智能系统                         | pdf     | 211    | 中文 | 无              | 文字版        | 24.2MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnuooidk4tHW3n0BgPXDmQ1g) |
+| 5    | 贝叶斯思维统计建模的PYTHON学习法                 | pdf     | 183    | 中文 | 无              | 纸质扫描版    | 21.1MB        |                                                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnPEPWvOP69SYUzxbOc56Oah) |
+| 6    | 深度学习_中文版                                  | pdf     | 731    | 中文 | 有              | 电子版        | 37.4MB        | [仅供学习使用，不得用于商业目的。](https://github.com/exacity/deeplearningbook-chinese) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnxZS5GLZ1jxl9iSmiaMYB3b) |
+
+
+
+## 计算机基础（计算机组成原理、计算机网络、数据结构与算法）
+
+### 计算机组成原理
+
+|      | 书名                                                         | 格式 | 总页数                       | 语言     | 是否有水印/广告 | 扫描版/电子版                          | 文件大小                           | 来源信息 & 备注                  | 下载地址                                                     |
+| ---- | ------------------------------------------------------------ | ---- | ---------------------------- | -------- | --------------- | -------------------------------------- | ---------------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| 1    | 编码：隐匿在计算机软硬件背后的语言<br />Code - The Hidden Language of Computer Hardware and Software | pdf  | 中文版：439<br />英文版：421 | 中、英文 | 无              | 中文版：纸质扫描版<br />英文版：电子版 | 中文版：14.0MB<br />英文版：3.61MB | [帅地玩编程][sd-github]          | 中文版：[飞书](https://x7xrycxzti.feishu.cn/file/boxcnHd1keRH5X1kla1X4fVeswh)<br />英文版：[飞书](https://x7xrycxzti.feishu.cn/file/boxcnha9usUXSAblgfGfhJXsqBe) |
+| 2    | [图灵程序设计丛书].计算机是怎样跑起来的                      | pdf  | 276                          | 中文     | 无              | 电子版                                 | 22.4MB                             | [帅地玩编程][sd-github] 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnd9of3bldsNjQWzrjejQuzh) |
+| 3    | 程序是怎样跑起来的_PDF电子书下载 带书签目录 高清完整版       | pdf  | 274                          | 中文     | 无              | 纸质扫描版                             | 35.6MB                             | 帅地玩编程                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcntG6sKaJNLIi3jSMoQYGP0d) |
+| 4    | 计组--极客时间                                               | zip  |                              | 中文     |                 |                                        | 206MB                              | 极客时间（压缩包内为PDF）        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnm68chMf5FOWeS5c3X7Z26U) |
+
+
+
+## 开发语言（C、C++、Java、Go、Python、HTML、JavaScript、CSS、汇编等）
+
+|      | 书名       | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                                     | 下载地址                                                     |
+| ---- | ---------- | ---- | ------ | ---- | --------------- | ------------- | -------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| 1    | 黑客与画家 | pdf  | 258    | 中文 | 有免责声明      | 纸质扫描版    | 28.2MB   | [帅地玩编程][sd-github] [溜客安全网](WwW.176Ku.CoM) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnW5BYCGamIyG52UTq3vOmch) |
 
 
 
