@@ -205,6 +205,12 @@
 | 1    | 汇编语言基于linux环境第3版 | pdf  | 588    | 中文 | 无              | 纸质扫描版    | 101MB    |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnTgMSaMEYAheVNtgW0NkVRc) |
 | 2    | 《汇编语言(第3版) 》王爽著 | pdf  | 354    | 中文 | 无              | 纸质扫描版    | 75.4MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnTrNjvdy91jMLVYdo84d6xf) |
 
+### SQLite
+
+|      | 书名            | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
+| ---- | --------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | ----------------------- | ------------------------------------------------------------ |
+| 1    | SQLite 权威指南 | pdf  | 122    | 中文 | 无              | 电子版        | 962KB    | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcntHXGXo6Sd04wkRkLEIzoJc) |
+
 
 
 ## 写在最后
