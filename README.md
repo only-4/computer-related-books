@@ -216,6 +216,13 @@
 | 3    | 研磨设计模式                | pdf  | 801    | 中文 | 无              | 纸质扫描版           | 316MB    | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnErYZqc3aT92YInbp5e8ntb) |
 
 
+### MongoDB
+|      | 书名                     | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                  | todo     | 下载地址                                                     |
+| ---- | ------------------------ | ---- | ------ | ---- | --------------- | ------------- | -------- | -------------------------------- | -------- | ------------------------------------------------------------ |
+| 1    | MongoDB权威指南-霍多罗夫 | pdf  | 802    | 中文 | 无              | 文字版        | 5.53MB   |                                  | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnGJq95aJcqFXKUrKYeAjRRd) |
+| 2    | MongoDB权威指南          | pdf  | 192    | 中文 | 有              | 纸质扫描版    | 9.95MB   | [帅地玩编程][sd-github] Linuxidc | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnu1vnFKz3XcSDmmyVGAJFwc) |
+| 3    | 深入学习mongodb          | pdf  | 177    | 中文 | 无              | 电子版        | 8.97MB   | 图灵社区                         | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnS0p6u8MIHih9VLC1apv9Wc) |
+
 ### SQLite
 
 |      | 书名            | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
