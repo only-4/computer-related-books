@@ -134,6 +134,17 @@
 
 ## 计算机基础（计算机组成原理、计算机网络、数据结构与算法）
 
+### 计算机网络
+
+|      | 书名                                    | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版  | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
+| ---- | --------------------------------------- | ---- | ------ | ---- | --------------- | -------------- | -------- | ----------------------- | ------------------------------------------------------------ |
+| 1    | HTTP权威指南                            | pdf  | 722    | 中文 | 无              | 纸质扫描版     | 85.1MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnepRpIo5xtMfb0BzaIrMO0e) |
+| 2    | 计算机网络-自顶向下方法                 | pdf  | 565    | 中文 | 无              | 纸质扫描版     | 56.6MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnErOCbDNQCfdHGzw4LNzjVe) |
+| 3    | 图解HTTP                                | pdf  | 265    | 中文 | 无              | 纸质扫描版     | 67.5MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnQa6yoqCu1DCYSic2fVbkBr) |
+| 4    | 图解TCPIP(第5版)                        | pdf  | 343    | 中文 | 无              | 电子版（重制） | 47.7MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnKKY2t8i2L6A56YasJGlloc) |
+| 5    | 网络是怎样连接的 (图灵程序设计丛书)     | pdf  | 216    | 中文 | 无              | 电子版（重制） | 17.3MB   | 帅地玩编程              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnx4VqPKUpzGn13shnD8R9Qf) |
+| 6    | UNIX网络编程卷1：套接字联网API（第3版） | pdf  | 824    | 中英 | 无              | 纸质扫描版     | 85.3MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnwnxWQ12Nv2wXVWMAYZxind) |
+
 ### 计算机组成原理
 
 |      | 书名                                                         | 格式 | 总页数                       | 语言     | 是否有水印/广告 | 扫描版/电子版                          | 文件大小                           | 来源信息 & 备注                  | 下载地址                                                     |
