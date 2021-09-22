@@ -1,8 +1,8 @@
 # 计算机类电子书
 
-> 本资源最后更新时间 2021-09-17
+> 本资源最后更新时间 2021-09-22
 >
-> 版本号 1.0.1
+> 版本号 1.0.3
 >
 > “张小弟之家”整理发布，如需转载，请阅读最后的【转载说明】，谢谢合作！
 
@@ -230,6 +230,19 @@
 | 1    | MongoDB权威指南-霍多罗夫 | pdf  | 802    | 中文 | 无              | 文字版        | 5.53MB   |                                  | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnGJq95aJcqFXKUrKYeAjRRd) |
 | 2    | MongoDB权威指南          | pdf  | 192    | 中文 | 有              | 纸质扫描版    | 9.95MB   | [帅地玩编程][sd-github] Linuxidc | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnu1vnFKz3XcSDmmyVGAJFwc) |
 | 3    | 深入学习mongodb          | pdf  | 177    | 中文 | 无              | 电子版        | 8.97MB   | 图灵社区                         | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnS0p6u8MIHih9VLC1apv9Wc) |
+
+### MySQL
+
+|      | 书名                                                   | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                       | 下载地址                                                     |
+| ---- | ------------------------------------------------------ | ---- | ------ | ---- | --------------- | ------------- | -------- | ------------------------------------- | ------------------------------------------------------------ |
+| 1    | MySQL5.7从入门到精通                                   | pdf  | 627    | 中文 | 无              | 纸质扫描版    | 230MB    |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnHK69Dh9oD5UDpR5KGDMjFh) |
+| 2    | MySQL必知必会                                          | pdf  | 252    | 中文 | 无              | 电子版        | 5.73MB   | 图灵社区                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnsC8V4DR3PcdeWuWbyLSMfd) |
+| 3    | MySQL技术内幕  InnoDB存储引擎  第2版                   | pdf  | 437    | 中文 | 有              | 纸质扫描版    | 39.3MB   | 拼吾爱                                | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnToqSh0sB37t5iRKqPYt9Rh) |
+| 4    | MySQL性能调优与架构设计 PDF中文版全册                  | pdf  | 302    | 中文 | 有              | 文字版        | 3.58MB   | [Linux公社](http://www.linuxidc.com/) | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnnssRR5oWeReVkrXNRwsRwg) |
+| 5    | MySQL与MariaDB学习指南                                 | pdf  | 307    | 中文 | 无              | 电子版        | 8.94MB   | 图灵社区                              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn9LQ51V75iksC0iXYw2BBMh) |
+| 6    | SQL查询的艺术                                          | pdf  | 511    | 中文 | 无              | 纸质扫描版    | 105MB    |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnPEbjXw8LYvZFjnxJYCDitb) |
+| 7    | 高性能MySQL第三版                                      | pdf  | 800    | 中文 | 无              | 纸质扫描版    | 72.3MB   |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcntNnlji0MAKHJ8Z91hIH8Kb) |
+| 8    | 深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明 | pdf  | 656    | 中文 | 无              | 纸质扫描版    | 201MB    |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcngtvSLacUTNhbJ0pXcmqZ1e) |
 
 ### SQLite
 
