@@ -237,11 +237,22 @@
 | 6    | 深入NoSQL         | pdf  | 311    | 中文 | 无              | 电子版        | 13.9MB   | 图灵社区        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnAI4p6EumsLOlHyIDsOZhqZ) |
 
 ### MongoDB
-|      | 书名                     | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                  | todo     | 下载地址                                                     |
-| ---- | ------------------------ | ---- | ------ | ---- | --------------- | ------------- | -------- | -------------------------------- | -------- | ------------------------------------------------------------ |
-| 1    | MongoDB权威指南-霍多罗夫 | pdf  | 802    | 中文 | 无              | 文字版        | 5.53MB   |                                  | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnGJq95aJcqFXKUrKYeAjRRd) |
-| 2    | MongoDB权威指南          | pdf  | 192    | 中文 | 有              | 纸质扫描版    | 9.95MB   | [帅地玩编程][sd-github] Linuxidc | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnu1vnFKz3XcSDmmyVGAJFwc) |
-| 3    | 深入学习mongodb          | pdf  | 177    | 中文 | 无              | 电子版        | 8.97MB   | 图灵社区                         | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnS0p6u8MIHih9VLC1apv9Wc) |
+|      | 书名                     | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                  | 下载地址                                                     |
+| ---- | ------------------------ | ---- | ------ | ---- | --------------- | ------------- | -------- | -------------------------------- | ------------------------------------------------------------ |
+| 1    | MongoDB权威指南-霍多罗夫 | pdf  | 802    | 中文 | 无              | 文字版        | 5.53MB   |                                  | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnGJq95aJcqFXKUrKYeAjRRd) |
+| 2    | MongoDB权威指南          | pdf  | 192    | 中文 | 有              | 纸质扫描版    | 9.95MB   | [帅地玩编程][sd-github] Linuxidc | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnu1vnFKz3XcSDmmyVGAJFwc) |
+| 3    | 深入学习mongodb          | pdf  | 177    | 中文 | 无              | 电子版        | 8.97MB   | 图灵社区                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnS0p6u8MIHih9VLC1apv9Wc) |
+
+### Mybatis
+
+|      | 书名                            | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注 | 下载地址                                                     |
+| ---- | ------------------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | --------------- | ------------------------------------------------------------ |
+| 1    | MyBatis3用户指南中文版          | pdf  | 59     | 中文 | 无              | 文字版        | 526KB    | PDF已加密       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcneZmWwTnQMmKGyWFtW0XiVd) |
+| 2    | Mybatis3中文用户指南            | pdf  | 98     | 中文 | 有              | 文字版        | 2.03MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnV8CVIikZmHyPiBHsLeTegc) |
+| 3    | MyBatis从入门到精通__刘增辉(著) | pdf  | 315    | 中文 | 无              | 纸质扫描版    | 116MB    |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnamqEALVT5KglIIrF5G6Mjh) |
+| 4    | MyBatis技术内幕                 | pdf  | 447    | 中文 | 无              | 纸质扫描版    | 180MB    |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn7kr1wLBbWKUgTcy97sWQre) |
+| 5    | Spring+Mybatis企业应用实战      | pdf  | 328    | 中文 | 无              | 纸质扫描版    | 48.1MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnVjq6RWTYwz9X7Qr7Rngjqb) |
+| 6    | 深入浅出MyBatis技术原理与实战   | pdf  | 272    | 中文 | 无              | 纸质扫描版    | 81.0MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnXVQHYsmQEBQkpab0jMRYbe) |
 
 ### MySQL
 
