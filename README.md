@@ -213,6 +213,30 @@
 | 1    | 汇编语言基于linux环境第3版 | pdf  | 588    | 中文 | 无              | 纸质扫描版    | 101MB    |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnTgMSaMEYAheVNtgW0NkVRc) |
 | 2    | 《汇编语言(第3版) 》王爽著 | pdf  | 354    | 中文 | 无              | 纸质扫描版    | 75.4MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnTrNjvdy91jMLVYdo84d6xf) |
 
+### 前端（HTML、JavaScript、CSS）
+
+|      | 书名                                                         | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版     | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
+| ---- | ------------------------------------------------------------ | ---- | ------ | ------ | --------------- | ----------------- | -------- | ----------------------- | ------------------------------------------------------------ |
+| 1    | [HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版 | pdf  | 425 | 中文 | 有            | 纸质扫描版 | 60.0MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcngjrjQG2ZX9ZuAJC1lRZ3kh) |
+| 2    | jQuery技术内幕 深入解析jQuery架构设计与实现原理              | pdf  | 634 | 中文 | 无            | 纸质扫描版 | 140MB    |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcngFj2x9Fjkqxyyr5lByiYie) |
+| 3    | jQuery权威指南                                               | pdf  | 1018 | 中文 | 无            | 纸质扫描版 | 19.6MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn7s2mjw0VM9QiUNqIp79T0b) |
+| 4    | jQuery高级编程 中文版                                        | pdf  | 325 | 中文 | 无            | 纸质扫描版 | 31.8MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnwYYMvGjrfKfV30su5VNSHd) |
+| 5    | JavaScript权威指南(第七版).(美)David.Flanagan                | pdf  | 1018 | 中文 | 无            | 纸质扫描版 | 20.9MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnhmMFOHcMaZ96jSjnsAr1Ge)                                                     |
+| 6    | JavaScript高级程序设计中文版（第3版）                        | pdf  | 750 | 中文 | 无            | 纸质扫描版 | 42.2MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnb5X8alhfnxz56hKS9zRYib) |
+| 7    | JavaScript.DOM编程艺术（第2版）                              | pdf  | 305 | 中文 | 无            | 纸质扫描版    | 109MB    |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnkcG3h9NxmpSxKXJMiG4L3f)                                                     |
+| 8    | Javascript 高效图形编程-中文版                               | pdf  | 249 | 中文 | 无            | 纸质扫描版 | 14.8MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnliYRZIkkm6bNo7DtI2gFAf)                                                     |
+| 9    | HTML5与CSS3基础教程（第8版）                                 | pdf  | 445 | 中文 | 无            | 电子版 | 72.2MB   | 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn0T6GW3eDQWt2hksGjKNipe)                                                     |
+| 10   | HTML5揭秘                                                    | pdf  | 224 | 中文 | 无            | 纸质扫描版 | 23.6MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnjGwe2UQrswVeMQccFDRVTU)                                                     |
+| 11   | HTML5 CSS3 JavaScript从入门到精通  标准版                    | pdf  | 691 | 中文 | 无            | 纸质扫描版 | 186MB    |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnibbNH0Zs9dRSL9EcBTs21c)                                                     |
+| 12   | Bootstrap实战                                                | pdf  | 369 | 中文 | 无            | 纸质扫描版 | 130MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnqESe2HnTF9p6oQmZjuqQIe)                                                     |
+| 13   | AngularJS权威教程                                            | pdf  | 479 | 中文 | 无            | 电子版 | 16.5MB   | 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFRwcV68EgeLVJTTNPEjQzd) |
+| 14   | Angular JS高级编程（英文原版）                               | pdf  | 196 | 英文   | 有       | 电子版 | 8.37MB  | it-ebooks.info | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFY86i5Rc4Zq89kMXNlItic) |
+| 15   | Angular 2 Core                                               | pdf  | 35 | 中文 | 无            | 文字版 | 2.38MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnOHOa2bH2T7McDJQCmcPLwb) |
+| 16   | 深入浅出ES6                                                  | pdf  | 168 | 中文 | 无            | 电子版 | 2.90MB   | InfoQ中文站 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnJTd5qCyLLxYGOtgFRhGmBz)                                                     |
+| 17   | 疯狂ajax讲义                                                 | pdf  | 634 | 中文 | 无            | 纸质扫描版 | 90.1MB   |                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnMQNR91GW7S0nclHbXR51Bh)                                                     |
+| 18   | Node.js开发指南                                              | pdf  | 185 | 中文 | 无            | 电子版 | 7.86MB   | 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnzShtaC9O31F1jKik0NXrAh)                                                     |
+
+
 
 
 ## 设计模式
