@@ -244,6 +244,15 @@
 | 7    | 高性能MySQL第三版                                      | pdf  | 800    | 中文 | 无              | 纸质扫描版    | 72.3MB   |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcntNnlji0MAKHJ8Z91hIH8Kb) |
 | 8    | 深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明 | pdf  | 656    | 中文 | 无              | 纸质扫描版    | 201MB    |                                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcngtvSLacUTNhbJ0pXcmqZ1e) |
 
+### Redis
+
+|      | 书名                                 | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                            | 下载地址                                                     |
+| ---- | ------------------------------------ | ---- | ------ | ---- | --------------- | ------------- | -------- | ------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Redis实战                            | pdf  | 525    | 中文 | 有              | 文字版        | 31.1MB   | ePUBw.COM                                  | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1TWEqONmGO4Te93BzCsNYd) |
+| 2    | Redis开发与运维                      | pdf  | 890    | 中文 | 无              | 文字版        | 24.2MB   |                                            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnIobW6EVzenMfV5vrMn2PFb) |
+| 3    | Redis实战（红丸出品）                | pdf  | 71     | 中文 | 有微博链接      | 文字版        | 1.28MB   | [帅地玩编程][sd-github] 红丸出品           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnyqmSCVrfNg1YpiifTAiY4g) |
+| 4    | 【仅包含部分】Redis入门指南（第2版） | pdf  | 40     | 中文 | 无              | 电子版        | 11.5MB   | 电子书不全！这本书等找到全的资源之后替换掉 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnKXozWYHfEHfwxNHKoW8rFd) |
+
 ### SQLite
 
 |      | 书名            | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
