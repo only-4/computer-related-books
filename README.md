@@ -224,6 +224,18 @@
 | 3    | 研磨设计模式                | pdf  | 801    | 中文 | 无              | 纸质扫描版           | 316MB    | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnErYZqc3aT92YInbp5e8ntb) |
 
 
+
+## 数据库（MySQL、Redis、SQLite、Mybatis、MongoDB等）
+
+|      | 书名              | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注 | 下载地址                                                     |
+| ---- | ----------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | --------------- | ------------------------------------------------------------ |
+| 1    | SQL必知必会-第4版 | pdf  | 258    | 中文 | 无              | 电子版        | 6.94MB   | 图灵社区        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn5NAohNEzdiBMm93mxsfe2d) |
+| 2    | SQL查询的艺术     | pdf  | 511    | 中文 | 无              | 纸质扫描版    | 105MB    |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnk9cNUdGicvvilxgCSjgsmb) |
+| 3    | SQL反模式         | pdf  | 258    | 中文 | 无              | 电子版        | 10.2MB   | 图灵社区        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcniDWq27YcfzpN0NZyLWW7uc) |
+| 4    | SQL基础教程.第2版 | pdf  | 341    | 中文 | 无              | 电子版        | 22.1MB   | 图灵社区        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnyo2jI61CdeRywTYGNAxjec) |
+| 5    | SQL进阶教程       | pdf  | 318    | 中文 | 无              | 电子版        | 5.75MB   | 图灵社区        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnSYbVcCYAhA316tFSxEsdwd) |
+| 6    | 深入NoSQL         | pdf  | 311    | 中文 | 无              | 电子版        | 13.9MB   | 图灵社区        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnAI4p6EumsLOlHyIDsOZhqZ) |
+
 ### MongoDB
 |      | 书名                     | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                  | todo     | 下载地址                                                     |
 | ---- | ------------------------ | ---- | ------ | ---- | --------------- | ------------- | -------- | -------------------------------- | -------- | ------------------------------------------------------------ |
