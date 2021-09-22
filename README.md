@@ -216,11 +216,23 @@
 
 #### 线程
 
-|      | 书名                             | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                            | todo     | 下载地址                                                     |
-| ---- | -------------------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | ------------------------------------------ | -------- | ------------------------------------------------------------ |
-| 1    | 【不完整】Java多线程编程核心技术 | pdf  | 82     | 中文 | 有背景水印      | 电子版        | 5.78MB   | 电子书不全！这本书等找到全的资源之后替换掉 | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnlxqOqPigSxemkp9nGehiNe) |
-| 2    | Java线程(第三版)                 | pdf  | 350    | 中文 | 无              | 纸质扫描版    | 28.5MB   |                                            | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn3JeUO49AHw8Q5mJvYC8mgc) |
-| 3    | Java线程                         | pdf  | 34     | 中文 | 页眉页脚均有    | 文字版        | 281KB    | [爱好者](http://www.javafan.net)           | 分享链接 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFD41ITBy54fQ6KA5N16vmf) |
+|      | 书名                             | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                            | 下载地址                                                     |
+| ---- | -------------------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | ------------------------------------------ | ------------------------------------------------------------ |
+| 1    | 【不完整】Java多线程编程核心技术 | pdf  | 82     | 中文 | 有背景水印      | 电子版        | 5.78MB   | 电子书不全！这本书等找到全的资源之后替换掉 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnlxqOqPigSxemkp9nGehiNe) |
+| 2    | Java线程(第三版)                 | pdf  | 350    | 中文 | 无              | 纸质扫描版    | 28.5MB   |                                            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn3JeUO49AHw8Q5mJvYC8mgc) |
+| 3    | Java线程                         | pdf  | 34     | 中文 | 页眉页脚均有    | 文字版        | 281KB    | [爱好者](http://www.javafan.net)           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnFD41ITBy54fQ6KA5N16vmf) |
+
+#### 虚拟机
+
+|      | 书名                                             | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版     | 文件大小 | 来源信息 & 备注 | 下载地址                                                     |
+| ---- | ------------------------------------------------ | ---- | ------ | ---- | --------------- | ----------------- | -------- | --------------- | ------------------------------------------------------------ |
+| 1    | Java虚拟机（第二版）                             | pdf  | 470    | 中文 | 无              | 电子版 纸质扫描版 | 16.6MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnUFQWrYXY1TzegzJ0seidrb) |
+| 2    | Java虚拟机规范                                   | pdf  | 387    | 中文 | 无              | 文字版            | 2.96MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnZ81gXcOCMQf5Y1k9gOLGdd) |
+| 3    | 深入JAVA虚拟机第二版                             | pdf  | 483    | 中文 | 无              | 纸质扫描版        | 19.0MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnukyY2FLrONfGIEA4eWVTUd) |
+| 4    | 深入理解Java虚拟机：JVM高级特性与最佳实践_周志明 | pdf  | 412    | 中文 | 无              | 文字版            | 41.1MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnbriheWtQ3atFJIqXLh9YDf) |
+| 5    | 实战Java虚拟机                                   | pdf  | 454    | 中文 | 页眉有网址      | 纸质扫描版        | 73.3MB   |                 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnQt85kVMNq2VEuuJaywmJjb) |
+
+
 
 ### 汇编语言
 
