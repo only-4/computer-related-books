@@ -294,6 +294,24 @@
 | ---- | ------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | --------------------------------------------------------- | ------------------------------------------------------------ |
 | 1    | jdk-11中文api修订版 | chm  |        | 中文 | 有QQ群          |               | 56.4MB   | [帅地玩编程][sd-github] 打开会产生chw文件，看完后删除即可 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnjlSErPxxxmMIBOQHZbUHSc) |
 
+#### Java基础
+
+|      | 书名                                | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版   | 文件大小 | 来源信息 & 备注                   | 下载地址                                                     |
+| ---- | ----------------------------------- | ---- | ------ | ---- | --------------- | --------------- | -------- | --------------------------------- | ------------------------------------------------------------ |
+| 1    | Java并发编程的艺术                  | pdf  | 422    | 中文 | 无              | 文字版          | 12.1MB   |                                   | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnlHFXkklmLppY0cKEwdrUlc) |
+| 2    | Java从小白到大牛完整版              | pdf  | 1141   | 中文 | 无              | 文字版          | 15.7MB   |                                   | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnptVzcyVD0kDWZPZxwUyrtd) |
+| 3    | 《码出高效：Java开发手册》          | pdf  | 307    | 中文 | 有版权小字      | 纸质扫描版      | 207MB    | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn4I2JkHK2c94YDdEFsj2Gec) |
+| 4    | Java 8实战                          | pdf  | 374    | 中文 | 无              | 电子版          | 12.9MB   | [帅地玩编程][sd-github]  图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnSJlZktuHgMv6a9alJiR4Og) |
+| 5    | Java编辑思想（第四版）              | pdf  | 689    | 中文 | 有              | 文字版          | 6.37MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn5Tg3FVLnLyrCXyD4QioJVb) |
+| 6    | JAVA并发编程实践                    | pdf  | 433    | 中文 | 无              | 纸质扫描版      | 40.6MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcneDx32GfhExx89gnyhdJV8f) |
+| 7    | Java从小白到大牛精简版              | pdf  | 237    | 中文 | 有              | 文字版          | 7.87MB   | [帅地玩编程][sd-github]  智捷课堂 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn5aouxTI8IDCJaZOft4iUtc) |
+| 8    | 阿里巴巴Java开发手册v1.2.0          | pdf  | 38     | 中文 | 无              | 文字版          | 999KB    | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcncxZEYqSi48KjicxBd0TPsH) |
+| 9    | 深入理解Java虚拟机（第二版-带目录） | pdf  | 471    | 中文 | 无              | 文字版          | 18.9MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcny7Dt0GSdb3DJRmLSDR9uAc) |
+| 10   | Head First Java 中文高清版          | pdf  | 689    | 中文 | 无              | 电子+纸质扫描版 | 57.1MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnYZLLo1DW4ovBvOTwnkrj5c) |
+| 11   | Head First Java第二版涵盖java5.0    | pdf  | 719    | 中文 | 有              | 纸质扫描版      | 71.3MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnTKgBYkCgfKtjTokVrwd1Oe) |
+| 12   | Java核心技术（卷1）第8版            | pdf  | 702    | 中文 | 有              | 纸质扫描版      | 66.2MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn586eStU6v5mIJ4WC6kqZXb) |
+| 13   | Java核心技术（卷2）第8版            | pdf  | 862    | 中文 | 有              | 纸质扫描版      | 58.8MB   | [帅地玩编程][sd-github]           | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnVYhuFMBp2C0NbKVyQiPRGf) |
+
 #### Netty
 
 |      | 书名                                            | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注        | 下载地址                                                     |
