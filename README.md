@@ -320,6 +320,26 @@
 
 
 
+### Python
+
+|      | 书名                                                         | 格式 | 总页数 | 语言   | 是否有水印/广告 | 扫描版/电子版     | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
+| ---- | ------------------------------------------------------------ | ---- | ------ | ------ | --------------- | ----------------- | -------- | ----------------------- | ------------------------------------------------------------ |
+| 1    | Python编程初学者指南                                         | pdf  | 423 | 中文 | 无            | 纸质扫描版 | 88.1MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnK2lor1hxKzwr62w677Hw0g) |
+| 2    | Python编程入门经典                                           | pdf  | 552 | 中文 | 无            | 纸质扫描版 | 59.0MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn28DFFTl39rNh9XaskW6DZb) |
+| 3    | Python高级编程第2版_张亮 阿信（译）_人民邮电出版社_2017-10_v2_完整版 | pdf  | 421 | 中文 | 无            | 纸质扫描版 | 76.8MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcntGSeRJSPSD8ad0YrUbym6c)                                                     |
+| 4    | Python灰帽子——黑客与逆向工程师的Python编程之道               | pdf  | 157 | 中文 | 有豆丁水印      | 文档图片版 | 25.9MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnr4kkqMlyPNykzu5U2THdwd)                                                     |
+| 5    | Python开发技术详解                                           | pdf  | 555 | 中文 | 无           | 纸质扫描版 | 118MB    | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnSHJkwYQsUL45OzU88P2eMb)                                                     |
+| 6    | Python开发实战                                               | pdf  | 395 | 中文 | 无            | 纸质扫描版 | 100MB    | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcno5j42ubhZRbrLbe8T2SRrf)                                                     |
+| 7    | Python数据科学手册                                           | pdf  | 714 | 中文 | 无            | 电子版 | 12.5MB   | 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnRL2MEwZZF6bGltqq6cX3Vf)                                                     |
+| 8    | PYTHON数据可视化编程实战                                     | pdf  | 267 | 中文 | 无            | 纸质扫描版 | 41.5MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnxhxYmjuDkVe0YqscyaplPh)                                                     |
+| 9    | Python学习手册(第4版)                                        | pdf  | 1162 | 中文 | 页脚有          | 纸质扫描版 | 95.4MB   | [帅地玩编程 ][sd-github]  pin5i.com | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnYfBJf2iG4eHTL7qLUHFBMh)                                                     |
+| 10   | 精通Scrapy网络爬虫                                           | pdf  | 254 | 中文 | 无            | 电子版 | 17.6MB   | [帅地玩编程][sd-github] | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnLk0ZXumwnJZuUKQLJTsPHc)                                                     |
+| 11   | 数据科学入门                                                 | pdf  | 310 | 中文 | 无            | 电子版 | 13.3MB   | 图灵社区 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnagFBgd8oFCIg7huNNteqkf)                                                     |
+| 12   | Python数据处理 | pdf  | 402 | 中文 | 无            | 电子版 | 13.4MB   | 图灵社区                            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnMVkT5wwnApYdpBVWMZr6Hf)                                                     |
+| 13   | Python网络编程基础 | pdf  | 537 | 中文 | 无            | 纸质扫描版 | 26.0MB   | 帅地玩编程              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnwCa8sAzSRXe6GAazqE2b3c)                                                     |
+| 14   | 编程小白的第一本python入门书 | pdf  | 145 | 中文 | 无            | 文字版 | 39.2MB   | 美河学习在线                        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnWbF9dXhIkSvarKBOaS83nf)                                                     |
+| 15   | 用Python写网络爬虫 | pdf  | 171 | 中文 | 无            | 纸质扫描版 | 10.0MB   | 帅地玩编程              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnwghQZ0eyVOIPriNt6vrUsZ)                                                     |
+
 ### 汇编语言
 
 |      | 书名                       | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注         | 下载地址                                                     |
