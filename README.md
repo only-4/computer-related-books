@@ -13,8 +13,9 @@
 
 目前阶段，可能有部分电子书不完整，有些比较模糊影响阅读，还有一些不算经典的小众书籍也收录进来了，后期将会逐渐将这些书籍替换完整清晰版本或者删除，如果大家发现了这类书籍，欢迎通过页面最下端的邮箱或者提issues给我。
 
-<details>
+备注中标注已加密的PDF文件不影响阅读，但是可能被限制无法复制、打印等。
 
+<details>
 <summary>还在整理中的内容（展开查看）</summary>
 
 - [ ] C++
@@ -36,6 +37,7 @@
 
 
 <!--
+
 ## 目录
 
 [TOC]
@@ -229,14 +231,28 @@
 
 ### C++
 
-|      | 书名                                        | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注       | 下载地址                                                     |
-| ---- | ------------------------------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | --------------------- | ------------------------------------------------------------ |
-| 1    | 现代 C++教程：高速上手 C++ 11_14_17_20      | pdf  | 103    | 中文 | 有              | 文字版        | 2.08MB   | 书栈网 · BookStack.CN | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnmuhkNCeU3zfd76ivgnxfSh) |
-| 2    | Qt5开发及实例 第3版                         | pdf  | 741    | 中文 | 无              | 纸质扫描版    | 141MB    |                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcngzKaoBYwISZRMrP9ZSlvSg) |
-| 3    | Qt5.9 c++开发指南                           | pdf  | 470    | 中文 | 无              | 纸质扫描版    | 276MB    |                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1nhWczjW8GMUEZa9Ieos5b) |
-| 4    | C及C++程序设计 （第四版）                   | pdf  | 537    | 中文 | 无              | 文字版        | 7.32MB   |                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnHwmkoqvwkq5scPxSREQwbh) |
-| 5    | C++面向对象程序设计（第2版）                | pdf  | 315    | 中文 | 无              | 纸质扫描版    | 167MB    |                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnkCM6tgfA49s4A2zAymLW9y) |
-| 6    | C++ Primer Plus（第6版）_中文版_带书签_超清 | pdf  | 953    | 中文 | 无              | 纸质扫描版    | 252MB    |                       | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnbraAtZK9zzKbdMYunIuxtg) |
+|      | 书名                                        | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                    | 下载地址                                                     |
+| ---- | ------------------------------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | ---------------------------------- | ------------------------------------------------------------ |
+| 1    | 现代 C++教程：高速上手 C++ 11_14_17_20      | pdf  | 103    | 中文 | 有              | 文字版        | 2.08MB   | 书栈网 · BookStack.CN              | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnmuhkNCeU3zfd76ivgnxfSh) |
+| 2    | Qt5开发及实例 第3版                         | pdf  | 741    | 中文 | 无              | 纸质扫描版    | 141MB    |                                    | [飞书](https://x7xrycxzti.feishu.cn/file/boxcngzKaoBYwISZRMrP9ZSlvSg) |
+| 3    | Qt5.9 c++开发指南                           | pdf  | 470    | 中文 | 无              | 纸质扫描版    | 276MB    |                                    | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1nhWczjW8GMUEZa9Ieos5b) |
+| 4    | C及C++程序设计 （第四版）                   | pdf  | 537    | 中文 | 无              | 文字版        | 7.32MB   |                                    | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnHwmkoqvwkq5scPxSREQwbh) |
+| 5    | C++面向对象程序设计（第2版）                | pdf  | 315    | 中文 | 无              | 纸质扫描版    | 167MB    |                                    | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnkCM6tgfA49s4A2zAymLW9y) |
+| 6    | C++ Primer Plus（第6版）_中文版_带书签_超清 | pdf  | 953    | 中文 | 无              | 纸质扫描版    | 252MB    |                                    | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnbraAtZK9zzKbdMYunIuxtg) |
+| 7    | C++ primer 5th                              | pdf  | 1399   | 英文 | 无              | 文字版        | 50.3MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnyAknTYLoXBCmsJxLZtYSXc) |
+| 8    | C++ Primer中文版  第5版                     | pdf  | 864    | 中文 | 无              | 纸质扫描版    | 198MB    | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnoRapVsv04tX1oda1ns4EUg) |
+| 9    | C++ Templates                               | pdf  | 518    | 中文 | 无              | 纸质扫描版    | 7.74MB   | [帅地玩编程][sd-github]  PDF已加密 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn2XkOyGel6NvjPD3F70RJDf) |
+| 10   | C++编程规范-101条规则准则与最佳实践         | pdf  | 230    | 中文 | 页眉有          | 纸质扫描版    | 36.2MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcncUAsuvUK35IDydt4xnmRge) |
+| 11   | C++编程思想（两卷合订本）                   | pdf  | 1738   | 中文 | 无              | 文字版        | 81.9MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn6hnKgC89LXy9GFpNZw6ks6) |
+| 12   | C++沉思录中文第2版                          | pdf  | 414    | 中文 | 无              | 纸质扫描版    | 15.4MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn9gXE2mfOJ5Nd5sLnRCpl6d) |
+| 13   | C++大学教程                                 | pdf  | 1141   | 中文 | 无              | 纸质扫描版    | 281MB    | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnHEP3NoQPxYTNC7ja0UJaSh) |
+| 14   | C++对象模型                                 | pdf  | 93     | 中文 | 无              | 电子版        | 1.26MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnQUwWrXbEg5TV1ZeGBISYQe) |
+| 15   | C++设计新思维-泛型编程与设计之应用          | pdf  | 346    | 中文 | 有              | 纸质扫描版    | 13.4MB   | [帅地玩编程][sd-github]  C++技术网 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnX65XmyuZeRfkXNYe3byc2f) |
+| 16   | Effective STL 中文版                        | pdf  | 276    | 中文 | 无              | 纸质扫描版    | 5.83MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnl05DsHz4qbKu8l2WL9sfUf) |
+| 17   | 深入探索C++对象模型                         | pdf  | 352    | 中文 | 无              | 纸质扫描版    | 13.8MB   | 帅地玩编程                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnIiUQMafthOkcDDnpYdnM3c) |
+| 18   | More Effective C++中文版                    | pdf  | 267    | 中文 | 页脚有          | 文字版        | 7.19MB   | 帅地玩编程                         | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn1D3XI1Y6aVU1BXsMTbxUPe) |
+| 19   | STL源码剖析                                 | pdf  | 528    | 中文 | 页脚有          | 纸质扫描版    | 17.0MB   | [帅地玩编程][sd-github]            | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnUG1Ip0RcD5FW2HTdGSLqDb) |
+
 
 ### Go
 
