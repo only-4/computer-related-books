@@ -279,6 +279,16 @@
 | ---- | ------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | --------------------------------------------------------- | ------------------------------------------------------------ |
 | 1    | jdk-11中文api修订版 | chm  |        | 中文 | 有QQ群          |               | 56.4MB   | [帅地玩编程][sd-github] 打开会产生chw文件，看完后删除即可 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnjlSErPxxxmMIBOQHZbUHSc) |
 
+#### Netty
+
+|      | 书名                                            | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注        | 下载地址                                                     |
+| ---- | ----------------------------------------------- | ---- | ------ | ---- | --------------- | ------------- | -------- | ---------------------- | ------------------------------------------------------------ |
+| 1    | Netty5.0架构剖析和源码解读                      | pdf  | 52     | 中文 | 无              | 文字版        | 3.40MB   | 作者:李林锋  PDF已加密 | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnPL7qqgUiBHDj1j6mJ8b0U5) |
+| 2    | Netty权威指南 第1版                             | pdf  | 526    | 中文 | 无              | 纸质扫描版    | 81.8MB   |                        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnrSXB19Rc1p9oORo0uxLZ9c) |
+| 3    | Netty权威指南 第2版                             | pdf  | 574    | 中文 | 无              | 纸质扫描版    | 98.6MB   |                        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn13epfNjD7NFhiwndFXZn4g) |
+| 4    | Netty实战(Netty IN ACTION) (诺曼·毛瑞尔) 中文版 | pdf  | 270    | 中文 | 无              | 电子版        | 11.4MB   |                        | [飞书](https://x7xrycxzti.feishu.cn/file/boxcnr4modbGP3Zi53x2TUV9dyE) |
+| 5    | 深入浅出Netty                                   | pdf  | 106    | 中文 | 有              | 文字版        | 3.51MB   | InfoQ                  | [飞书](https://x7xrycxzti.feishu.cn/file/boxcn8L5a8LnlwKYtv7kRmhGusg) |
+
 #### 线程
 
 |      | 书名                             | 格式 | 总页数 | 语言 | 是否有水印/广告 | 扫描版/电子版 | 文件大小 | 来源信息 & 备注                            | 下载地址                                                     |
